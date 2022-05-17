@@ -1,0 +1,2 @@
+# lzkubeconfig
+lazy kubeconfig
